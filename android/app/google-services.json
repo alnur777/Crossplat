@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306941442964",
+    "project_id": "obloko-ba4ab",
+    "storage_bucket": "obloko-ba4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306941442964:android:5e58d2d980286623daad81",
+        "android_client_info": {
+          "package_name": "com.example.order_processing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRhGDDEWVzsYRpIXv_SXBkbbYFKUG-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
